@@ -61,7 +61,7 @@ request).
 Congratulations! The whole GitHub community thanks you. :sparkles:
 
 Once your PR is merged, you will be proudly listed as a contributor in the
-[contributor chart](https://github.com/manthanwar/medium.com/graphs/contributors).
+[contributor chart](https://github.com/manthanwar/medium/graphs/contributors).
 
 ### Keep contributing as you use GitHub Docs
 
@@ -95,7 +95,7 @@ Discussions are where we have conversations.
 
 If you'd like help troubleshooting a docs PR you're working on, have a great new
 idea, or want to share something amazing you've learned in our docs, join us in
-[discussions](https://github.com/manthanwar/medium.com/discussions).
+[discussions](https://github.com/manthanwar/medium/discussions).
 
 ### :beetle: Issues
 
@@ -106,9 +106,9 @@ triage label, we haven't reviewed it yet and you shouldn't begin work on it.
 If you've found something in the content or the website that should be updated,
 search open issues to see if someone else has reported the same thing. If it's
 something new, open an issue using a
-[New Issue](https://github.com/manthanwar/medium.com/issues/new). We'll use
+[New Issue](https://github.com/manthanwar/medium/issues/new). We'll use
 the issue to have a conversation about the problem you want to fix. See the
-issues at [Reported Issues](https://github.com/manthanwar/medium.com/issues)
+issues at [Reported Issues](https://github.com/manthanwar/medium/issues)
 
 ### :hammer_and_wrench: Pull requests
 
@@ -167,22 +167,22 @@ You can browse existing issues to find something that needs help!
 Labels can help you find an issue you'd like to help with.
 
 - The
-  [`help wanted` label](https://github.com/manthanwar/medium.com/labels/help%20wanted)
+  [`help wanted` label](https://github.com/manthanwar/medium/labels/help%20wanted)
   is for problems or updates that anyone in the community can start working on.
 - The
-  [`good first issue` label](https://github.com/manthanwar/medium.com/labels/good%20first%20issue)
+  [`good first issue` label](https://github.com/manthanwar/medium/labels/good%20first%20issue)
   is for problems or updates we think are ideal for beginners.
-- [`bugs` label](https://github.com/manthanwar/medium.com/labels/bug) is for
+- [`bugs` label](https://github.com/manthanwar/medium/labels/bug) is for
   problems or updates that anyone in the community can start working on.
 - The
-  [`documentation` label](https://github.com/manthanwar/medium.com/labels/documentation)
+  [`documentation` label](https://github.com/manthanwar/medium/labels/documentation)
   is for helping improve the documentation.
 - The
-  [`content` label](https://github.com/manthanwar/medium.com/labels/content)
+  [`content` label](https://github.com/manthanwar/medium/labels/content)
   is for problems or updates in the content on README.md. These will usually
   require some knowledge of Markdown.
 - The
-  [`engineering` label](https://github.com/manthanwar/medium.com/labels/engineering)
+  [`engineering` label](https://github.com/manthanwar/medium/labels/engineering)
   is for problems or updates in the source codes. These will usually require
   some knowledge of JavaScript/Node.js or YAML to fix.
 

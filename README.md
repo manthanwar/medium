@@ -20,7 +20,7 @@ Intended combine the human intellect, creativity, and deep introspection, The Th
 
 ## Contributing
 
-Feel free to [ask questions](https://github.com/manthanwar/medium.com/discussions), [post issues](https://github.com/manthanwar/medium.com/issues), [submit pull request](https://github.com/manthanwar/medium.com/pulls), and [request new features](https://github.com/manthanwar/medium.com/discussions/categories/ideas).
+Feel free to [ask questions](https://github.com/manthanwar/medium/discussions), [post issues](https://github.com/manthanwar/medium/issues), [submit pull request](https://github.com/manthanwar/medium/pulls), and [request new features](https://github.com/manthanwar/medium/discussions/categories/ideas).
 
 For more information about this project and how to use this package, please
 check out our detailed [documentation](doc/DOCUMENTATION.md).
@@ -33,7 +33,7 @@ Please check the [Software Licenses](LICENSE.md) for details.
 
 This GitHub repository of package is located at
 
-<https://github.com/manthanwar/medium.com.git>
+<https://github.com/manthanwar/medium.git>
 
 ## Code Languages
 
@@ -45,7 +45,7 @@ Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
 ## Supporting this project
 
-This project is released under the [Source License](LICENSE.md). Its ongoing development is made possible thanks to the support by these awesome [sponsors](SPONSORS.md#sponsors). You can help make this project better by [reporting issues](https://github.com/manthanwar/medium.com/issues) and supporting us at [Patreon](https://patreon.com/manthanwar) or [Bye Me a Coffee](https://buymeacoffee.com/manthanwar). Thank you!
+This project is released under the [Source License](LICENSE.md). Its ongoing development is made possible thanks to the support by these awesome [sponsors](SPONSORS.md#sponsors). You can help make this project better by [reporting issues](https://github.com/manthanwar/medium/issues) and supporting us at [Patreon](https://patreon.com/manthanwar) or [Bye Me a Coffee](https://buymeacoffee.com/manthanwar). Thank you!
 
 ## Sponsors
 
