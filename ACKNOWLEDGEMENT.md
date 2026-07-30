@@ -1,0 +1,3 @@
+# Acknowledgments
+
+The library is written by [Amit M. Manthanwar](https://github.com/manthanwar). Thanks to all the people who reported problems and suggested various improvements; they are too numerous to cite here. The library has been entirely written by Amit M. Manthanwar in pure Python, C++, LaTeX, PostScript, JavaScript, CSS, HTML, SVG, and Markdown; it does not include third-party dependencies. If you redistribute modified sources, we would appreciate that you include in the file ChangeLog history information documenting your changes and appropriate acknowledgements. Please read the [license](LICENSE.md) for more information on the distribution of modified source versions. Red the guidelines in [contributing](CONTRIBUTING.md) to contribute to this library.
